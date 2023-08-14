@@ -1,1 +1,3 @@
 1st Line in b.txt
+2nd Line in b.txt
+3rd Line in b.txt

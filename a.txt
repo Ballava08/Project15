@@ -1,1 +1,3 @@
 1st Line in a.txt
+2nd Line in a.txt
+3rd Line in a.txt
